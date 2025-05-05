@@ -78,17 +78,10 @@ php artisan migrate:fresh --seed
 </tr>
 <tr>
 <td><h3 align="center">Produk</h3><img src="public/backend/image/screenshot/ss_produk.png"></td>
-<td><h3 align="center">Tambah Foto Produk</h3><img src="public/backend/image/screenshot/ss_tambah_gambar_produk.png"></td>
-</tr>
-<tr>
-<td><h3 align="center">Laporan User</h3><img src="public/backend/image/screenshot/ss_laporan_user.png"></td>
-<td><h3 align="center">Laporan Produk</h3><img src="public/backend/image/screenshot/ss_laporan_produk.png"></td>
-</tr>
-<tr>
 <td><h3 align="center">Dashboard</h3><img src="public/backend/image/screenshot/ss_dashboard.png"></td>
-<td><h3 align="center">Detail Produk</h3><img src="public/backend/image/screenshot/ss_detailproduk.png"></td>
 </tr>
 <tr>
+<td><h3 align="center">Detail Produk</h3><img src="public/backend/image/screenshot/ss_detailproduk.png"></td>
 <td><h3 align="center">Google Login</h3><img src="public/backend/image/screenshot/ss_google.png"></td>
 </tr>
 </table>
